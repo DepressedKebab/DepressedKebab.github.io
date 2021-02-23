@@ -1099,7 +1099,11 @@ input, select, textarea {
 	button {
 		line-height: calc(2.75rem - 2px);
 	}
-
+	.button2{
+		position: absolute;
+		left: 100px;
+		top: 479px;
+	}
 /* BG */
 
 	#bg {
